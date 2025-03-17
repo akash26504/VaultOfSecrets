@@ -74,17 +74,21 @@ Upon completing the final battle, players witness a **cinematic revelation**. A 
 ---
 
 ## 👥 Contributors  
-👤 **[Your Name]** - Game Developer  
+👤 **Akash D Kanabur** - Game Developer  
 👤 **[Your Team Members]** - Additional Roles  
 
 ---
 
-## 📌 Stay Connected  
-🔹 **GitHub Repository:** [Your Repo Link]  
-🔹 **Follow for Updates:** [Your Social Media or Discord Link]  
 
----
 
-Would you like me to add more details, such as **installation steps, system requirements, or gameplay controls**? 😊  
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/d1d9facc-c9d8-4256-9fef-afad2871af71
+
 
 
