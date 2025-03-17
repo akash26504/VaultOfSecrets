@@ -74,8 +74,8 @@ Upon completing the final battle, players witness a **cinematic revelation**. A 
 ---
 
 ## 👥 Contributors  
-👤 **Akash D Kanabur** - Game Developer  
-👤 **[Your Team Members]** - Additional Roles  
+👤 **Akash D Kanabur** 
+👤 **Khushi P Hegde**  
 
 ---
 
