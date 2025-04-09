@@ -73,11 +73,6 @@ Upon completing the final battle, players witness a **cinematic revelation**. A 
 
 ---
 
-## 👥 Contributors  
-👤 **Akash D Kanabur** 
-👤 **Khushi P Hegde**  
-
----
 
 
 
