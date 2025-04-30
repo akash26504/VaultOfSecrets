@@ -1,4 +1,4 @@
-# World of Secrets  
+# Vault Of Secrets 
 
 ## 📜 Game Description  
 **World of Secrets** is an **action-strategy** game where players embark on a heroic journey to reclaim their empire. The adventure begins in the **outer forest**, progresses through the **conquered kingdom**, and culminates in an **epic final battle** against the **tyrant king** who has seized the fort.  
